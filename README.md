@@ -12,6 +12,8 @@ Group flowchart
 The first idea we came up with was a Twitterbot. The bot should be a profile of a man that would retweet twits with the #MeToo. We wanted to create this so see what difference it would make if a man twitted the same twits. This program should not be made to make fun of the MeToo campaign but should be seen as a way of putting things into perspective and see if there would be the same reaction if a man twitted the same things or it would be ignored.
 For this program we would have to get some Twitter API and create a program that could send tweets by it self.
 
+![alt tekst](https://github.com/NicolineDS/Mini_ex9/blob/master/Twitterbot.png?raw=true)
+
 The second program is inspired by the text Benjamin Grosser, ”What Do Metrics Want? How Quantification Prescribes Social Interaction on Facebook,”The program should be a Facebook like interface where the different metrics of the interface would be changed. This could for an example be, that if a user scroll pass a post the person who has posted it would get a notification that would say “this user has ignored your post”.
 For this program we would have to make a Facebook like page with a lot of different interaction opportunities.
 
