@@ -17,6 +17,8 @@ For this program we would have to get some Twitter API and create a program that
 The second program is inspired by the text Benjamin Grosser, ”What Do Metrics Want? How Quantification Prescribes Social Interaction on Facebook,”The program should be a Facebook like interface where the different metrics of the interface would be changed. This could for an example be, that if a user scroll pass a post the person who has posted it would get a notification that would say “this user has ignored your post”.
 For this program we would have to make a Facebook like page with a lot of different interaction opportunities.
 
+![alt tekst](https://github.com/NicolineDS/Mini_ex9/blob/master/%22Facebook%22.png?raw=true)
+
 Both programs would take a lot of time coding and conceptually create. Therefore it was a good exercise to make flowcharts to see what it would take to create each program and what we should have in mind if we chose to create ether of them. Ether way is was a good way of getting familiar with flowcharts and a great way of brainstorming for our final project.
 
 
